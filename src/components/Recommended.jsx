@@ -8,7 +8,8 @@ function Recommended({movies}) {
           <Content>
         {movies.map(movie => (
           <ImgWrap key={movie.id}>
-           <Link to={`/detail/${movie.id}`}>
+            {/* to={`/edit/${id}`} state={{detail:ls}} */}
+            <Link to={`/detail/${movie.id}`} state={{movie:movie}}>
         <img src={movie.cardImg} alt="recommended" />
           </Link>
           </ImgWrap>
