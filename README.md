@@ -13,4 +13,4 @@ This project is a clone of the popular streaming platform Disney Plus, built usi
 -  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20" height="20"/>  React: A JavaScript library for building user interfaces. 
 -  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="20" height="20"/>  Firebase: Backend as a service for authentication and database. 
 -  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="Styled Components" width="20" height="20"/>  Styled Components: A CSS-in-JS tool for component-level styling. 
--  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="20" height="20"/>  Redux: A state management library for managing global state. 
+-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="20" height="20"/>  Redux: For managing global state. 
